@@ -4,7 +4,9 @@
   "description": "this bot is used to scrap data from website ",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.10.4]"
+    "UiPath.System.Activities": "[25.10.4]",
+    "UiPath.UIAutomation.Activities": "[25.10.25]",
+    "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.12.5-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
