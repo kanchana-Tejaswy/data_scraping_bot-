@@ -1,0 +1,6 @@
+{
+  "Name": "data scraping bot",
+  "ProjectType": "Process",
+  "Description": "this bot is used to scrap data from website ",
+  "MainFile": "Main.xaml"
+}
